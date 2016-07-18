@@ -1,0 +1,1 @@
+$('.caroucel').slick();
